@@ -16,5 +16,6 @@ function isPrime(n){
     console.log("是質數")
 }
 
+
 isPrime(5);
 isPrime(6);
